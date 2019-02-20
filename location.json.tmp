@@ -2,17 +2,13 @@
     "landmark":[
         {
             "name": "ランドマーク名",
-            "geometory":{
-                "location":{
-                    "lat": "緯度",
-                    "lng": "経度"
-                }
+			"location":{
+                   "lat": "緯度",
+                   "lng": "経度"
             },
-            "plus_code" : {
-                "compound_code" : "府県",
-                "global_code" : "固有ID"
-             },
-             "say":"セリフ"
+            "compound_code" : "府県",
+            "global_code" : "固有ID",
+			"say":"セリフ"
         }
     ]
 }
