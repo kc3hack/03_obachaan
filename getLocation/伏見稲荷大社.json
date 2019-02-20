@@ -1,0 +1,50 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "68 Fukakusa Yabunouchicho, Fushimi-ku, Kyoto, Kyoto Prefecture 612-0882, Japan",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.9671402,
+               "lng" : 135.7726717
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.96849002989272,
+                  "lng" : 135.7740215298927
+               },
+               "southwest" : {
+                  "lat" : 34.96579037010728,
+                  "lng" : 135.7713218701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "2b0af6b727edded9a5c3e148c7a2b82630e527c0",
+         "name" : "Fushimi Inari Taisha",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1320,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104640239295693865757/photos\"\u003e蕭旭庭\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAE2SSK5meS3ZHBSSXOR4wdLDMOjdUwbHSa6DZ71s1u--zInj2lzxNTDVxtDRb2oZZxr_DV3L5gHBPhY5BUeM5-wUIw0YRwlDu4arRZ5ma-CAWL4RqxPfOeTg-HYJkw1H6EhB4aZ7V44YqPm_GM5rqCzm0GhQ1vq1bbCJ37SfHTCBMwg46QQiERQ",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJIW0uPRUPAWAR6eI6dRzKGns",
+         "plus_code" : {
+            "compound_code" : "XQ8F+V3 Kyoto, 京都府 Japan",
+            "global_code" : "8Q6QXQ8F+V3"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJIW0uPRUPAWAR6eI6dRzKGns",
+         "types" : [ "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 13411
+      }
+   ],
+   "status" : "OK"
+}

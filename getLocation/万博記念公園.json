@@ -1,0 +1,91 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "1-1 Senribanpakukoen, Suita, Osaka Prefecture 565-0826, Japan",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.8082904,
+               "lng" : 135.5325798
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.80964022989271,
+                  "lng" : 135.5339296298928
+               },
+               "southwest" : {
+                  "lat" : 34.80694057010727,
+                  "lng" : 135.5312299701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "03af0e2b3cb75c81495aca8b3316e57790459a02",
+         "name" : "Expo’70 Commemorative Park",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 683,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100690527625941636002/photos\"\u003eSudhakaran Srinivasan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA9B8p3p3csmYcAHrpdnv0Y7IaOru3dfEBHemwZvJtrao-WOtGWJrUXO6o4VjCR7Fpt6sTIXMPcC_QHCbCPwYIc3Bv58RlBb5sVer0sQNJ5lyZZwIAjWNpklD9wbmj9_fHEhBR3IxqGMAURjLhX5akiSsyGhRQD3-J_KyX7cg7ApBpKFelulk50A",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJJ996orT8AGARtNKA2hzqoGY",
+         "plus_code" : {
+            "compound_code" : "RG5M+82 Suita, Osaka Prefecture, Japan",
+            "global_code" : "8Q6QRG5M+82"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJJ996orT8AGARtNKA2hzqoGY",
+         "types" : [ "park", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3114
+      },
+      {
+         "formatted_address" : "1 Senribanpakukōen, Suita-shi, Ōsaka-fu 565-0826, Japan",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.806815,
+               "lng" : 135.530025
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.80818917989272,
+                  "lng" : 135.5313764298927
+               },
+               "southwest" : {
+                  "lat" : 34.80548952010727,
+                  "lng" : 135.5286767701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "4191f1fefa8f53fa635b45768709dffc3b61908c",
+         "name" : "Expo Memorial Park",
+         "photos" : [
+            {
+               "height" : 2368,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108844896759372466267/photos\"\u003eWang Kai\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA0i6BR-JNHqkBOIzl_gz1QiIjnEAQoGIiUM7J3XGJy79mUhfl5BvHEmR8GTTSuY68cEElDMUjYYWb0KfvldrAH1OJF3XrPNKglkJ3BiUYpDWq-p_e2OVIafFtQ3lP-6PzEhAYG0nuhIF5KtbmEcLr0cBIGhSMeVZcDp1i3wE-cwuCppuLFs0BgA",
+               "width" : 4208
+            }
+         ],
+         "place_id" : "ChIJ9XdIeKz8AGAR7ywWuKTc3g4",
+         "plus_code" : {
+            "compound_code" : "RG4J+P2 Suita, Osaka Prefecture, Japan",
+            "global_code" : "8Q6QRG4J+P2"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJ9XdIeKz8AGAR7ywWuKTc3g4",
+         "types" : [ "transit_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,50 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "1 Kinkakujicho, Kita, Kyoto, Kyoto Prefecture 603-8361, Japan",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.03937,
+               "lng" : 135.7292431
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.04071982989272,
+                  "lng" : 135.7305929298927
+               },
+               "southwest" : {
+                  "lat" : 35.03802017010727,
+                  "lng" : 135.7278932701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "65867e1d1cdf7a8e01267807286e4a0565963c91",
+         "name" : "Kinkaku-ji",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116090297103303166304/photos\"\u003e宜璇\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAm1u6VrLNRy8SblURJmUrAW_xmUV_fOisgdeKRjwUNBowNexBj4nLfH-JSO6lWHLPDGqMT6aynsuhs0zN_5L9iYO-82Cp_THpmFnsBqqE09NT9LF-YwjE7FFYXAtNBx6vEhB6-i_qYWY27TLlXGSJafU8GhRSh8DUzFeX82MSPB1CltRjyJ0OKA",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJvUbrwCCoAWARX2QiHCsn5A4",
+         "plus_code" : {
+            "compound_code" : "2PQH+PM Kyoto, 京都府 Japan",
+            "global_code" : "8Q7Q2PQH+PM"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJvUbrwCCoAWARX2QiHCsn5A4",
+         "types" : [ "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 13360
+      }
+   ],
+   "status" : "OK"
+}

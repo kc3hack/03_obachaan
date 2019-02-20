@@ -1,0 +1,47 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "1 Chome-1-４３ Abenosuji, Abeno Ward, Osaka, Osaka Prefecture 545-6016, Japan",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.645842,
+               "lng" : 135.5139714
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.64719182989273,
+                  "lng" : 135.5153212298927
+               },
+               "southwest" : {
+                  "lat" : 34.64449217010728,
+                  "lng" : 135.5126215701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "c52b04e938ff218a512dcc88d0f688ed9cf0fb97",
+         "name" : "Abeno Harukas",
+         "photos" : [
+            {
+               "height" : 3648,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100226885074176415249/photos\"\u003e今川駒川\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA0Pfxai36E-COTxRgoPwyfuGYt8DvU3KITOqc4LKRCrGnDwS2MAXENWAyCBpb-Oo8hO5Se19Zlrl_4NIrUtmr6KO3tZ8DPhmNV2isr5w3qDbcsk6KnJGAXmQVNBou7HIKEhBc0CoeyI9W_9JA4hTG3co8GhSKRCRW9YvvDhcJbaQlqi2JA7AI1g",
+               "width" : 5472
+            }
+         ],
+         "place_id" : "ChIJed3mI_DdAGARJyFcpACSbwc",
+         "plus_code" : {
+            "compound_code" : "JGW7+8H Osaka, 大阪府 Japan",
+            "global_code" : "8Q6QJGW7+8H"
+         },
+         "rating" : 4,
+         "reference" : "ChIJed3mI_DdAGARJyFcpACSbwc",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 20671
+      }
+   ],
+   "status" : "OK"
+}

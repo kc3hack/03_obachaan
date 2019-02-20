@@ -1,0 +1,50 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "1 Chome-18-6 Ebisuhigashi, Naniwa Ward, Osaka, Osaka Prefecture 556-0002, Japan",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.6524992,
+               "lng" : 135.5063058
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.65384902989272,
+                  "lng" : 135.5076556298928
+               },
+               "southwest" : {
+                  "lat" : 34.65114937010728,
+                  "lng" : 135.5049559701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "e9f94707f5f99aba5be3f52f72f1d4ac355297e0",
+         "name" : "Tsutenkaku",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2669,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112813756416519586417/photos\"\u003eFernando Gonzalez Moll\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAlEPouxPMDBeSDfoyPBspbxgM3-_RxOqZ76bBO5zLi1m7yQRE_9ls3MKNV7Bmijuvc6KAVI6MoU4IouVYT1J3mWAQUEfg3A8zcxaCnByrFb5i4msvLrYQJJaev26SoO7PEhD6zJzmVEobr2EqYrvv1exUGhQpsv_oYMVmfRWIhq1vh7yWszjOBA",
+               "width" : 4006
+            }
+         ],
+         "place_id" : "ChIJ_0Lgd2DnAGARV0X03lbPy-U",
+         "plus_code" : {
+            "compound_code" : "MG24+XG Osaka, Osaka Prefecture, Japan",
+            "global_code" : "8Q6QMG24+XG"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJ_0Lgd2DnAGARV0X03lbPy-U",
+         "types" : [ "premise", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 11384
+      }
+   ],
+   "status" : "OK"
+}

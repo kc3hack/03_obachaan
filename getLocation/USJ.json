@@ -1,0 +1,47 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "2 Chome-1-33 Sakurajima, Konohana Ward, Osaka, Osaka Prefecture 554-0031, Japan",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.665442,
+               "lng" : 135.4323382
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.66679182989272,
+                  "lng" : 135.4336880298927
+               },
+               "southwest" : {
+                  "lat" : 34.66409217010727,
+                  "lng" : 135.4309883701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "32972c08ed8be5705163566ce04dbbb78dbfde40",
+         "name" : "Universal Studios Japan",
+         "photos" : [
+            {
+               "height" : 1333,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115096310724349473182/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAATgZeHOVFFJcLX8pIxrt5jL2_aFdH9V-76PtKQ-1k89JM6XHSviyl7oEfvC06SyUviFGjOG9SR0_puiFcwMNSNIUnJyeRJ1QXN9wU87enSprXnvt1HTAKxMhzLAUknZn_EhDYHhK5RGa5osJIXZmW_oqYGhQsBJqoShhUoOpgZgdXZy67B1PmWw",
+               "width" : 2000
+            }
+         ],
+         "place_id" : "ChIJXeLVg9DgAGARqlIyMCX-BTY",
+         "plus_code" : {
+            "compound_code" : "MC8J+5W Osaka, Osaka Prefecture, Japan",
+            "global_code" : "8Q6QMC8J+5W"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJXeLVg9DgAGARqlIyMCX-BTY",
+         "types" : [ "amusement_park", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 42024
+      }
+   ],
+   "status" : "OK"
+}

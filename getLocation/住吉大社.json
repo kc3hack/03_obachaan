@@ -1,0 +1,50 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "2 Chome-9-８９ Sumiyoshi, Sumiyoshi Ward, Osaka, Osaka Prefecture 558-0045, Japan",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.6127972,
+               "lng" : 135.4929406
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.61414702989272,
+                  "lng" : 135.4942904298927
+               },
+               "southwest" : {
+                  "lat" : 34.61144737010728,
+                  "lng" : 135.4915907701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "9416e8384361ad25bf2b614929053dfd0b11caa8",
+         "name" : "Sumiyoshi Taisha",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3648,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102843777859984755113/photos\"\u003ealbireo608\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAyPWsvFRURuRogG4G1SY1zpdHw08Su1brCuNhgG2qiO72-w3_U7B-wkXDygffM5LqXqK3zQTifyQQMz7PioEbDlXbDFBjVXUY-03hC8KxI4lBjyGbFIqFsjKfmky7UASREhCvqKbiHBo7A_O_eelhoGSfGhSov9SUlY2D5xgItDR2XGPtt1_WyA",
+               "width" : 5472
+            }
+         ],
+         "place_id" : "ChIJAQB8xrvnAGARgh8ATf4d9ac",
+         "plus_code" : {
+            "compound_code" : "JF7V+45 Osaka, Osaka Prefecture, Japan",
+            "global_code" : "8Q6QJF7V+45"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJAQB8xrvnAGARgh8ATf4d9ac",
+         "types" : [ "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1759
+      }
+   ],
+   "status" : "OK"
+}

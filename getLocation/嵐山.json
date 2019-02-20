@@ -1,0 +1,47 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "Ukyō-ku, Kyoto, Kyoto Prefecture, Japan",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.009449,
+               "lng" : 135.666773
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.01079882989271,
+                  "lng" : 135.6681228298927
+               },
+               "southwest" : {
+                  "lat" : 35.00809917010727,
+                  "lng" : 135.6654231701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "746aef937b6d6eb05c1c5129b54ae2ee90dd34ef",
+         "name" : "Arashiyama",
+         "photos" : [
+            {
+               "height" : 428,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104229300187231591827/photos\"\u003eterasawa junpei\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAvJ-V5XeJxSs0w_-o5DWlKiBbEePsaR-W6I6ptFXbE49oHs-X5vBYBgUM27PxYNwvAWVOMA2MkzW41OYbQEzUaTGCE7FIt70c6p5_AkuWg0R1XXRFTwRAzxkm7oc59X7wEhDayspxuVDKDjRsBnH7ygUhGhRAWs6Yff_hB_Xy9X5spVUA9laM8Q",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJ49PvUVQHAWARTAF7WU_Wqqs",
+         "plus_code" : {
+            "compound_code" : "2M58+QP Kyoto, 京都府 Japan",
+            "global_code" : "8Q7Q2M58+QP"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ49PvUVQHAWARTAF7WU_Wqqs",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2035
+      }
+   ],
+   "status" : "OK"
+}

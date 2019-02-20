@@ -1,0 +1,50 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "1 Chome-1-10 Kaigandori, Minato Ward, Osaka, Osaka Prefecture 552-0022, Japan",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.6545182,
+               "lng" : 135.4289645
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.65586802989272,
+                  "lng" : 135.4303143298928
+               },
+               "southwest" : {
+                  "lat" : 34.65316837010727,
+                  "lng" : 135.4276146701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "daa6e179b61611fd29593f575ca983a396c1ff5e",
+         "name" : "Osaka Aquarium Kaiyukan",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110849265815208383335/photos\"\u003eTomo K\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAwzUVORA-0Isgvjc1hG_Bs2UIan2VM340sQr31kcJ3bSrwa-iMtrDXlPCdSvRwLv2e8_E1b0z1tk8bEuMHG4RPozbbPL8ySvrOt-gy93KqeP55z9aljjA8v_BsNYEOC0kEhDrNeiSjKSPhJG5wXI7KJMFGhTccZOIRAROPtEDAg5KZaRrkMJX8g",
+               "width" : 5184
+            }
+         ],
+         "place_id" : "ChIJzakNjPToAGARzCwIriDFg28",
+         "plus_code" : {
+            "compound_code" : "MC3H+RH Osaka, Osaka Prefecture, Japan",
+            "global_code" : "8Q6QMC3H+RH"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJzakNjPToAGARzCwIriDFg28",
+         "types" : [ "aquarium", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 17086
+      }
+   ],
+   "status" : "OK"
+}
