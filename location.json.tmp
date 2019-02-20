@@ -1,7 +1,7 @@
 {
     "landmark":[
         {
-            "name": "hoge",
+            "name": "ランドマーク名",
 			"location":{
                    "lat": "緯度",
                    "lng": "経度"

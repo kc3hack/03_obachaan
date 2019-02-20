@@ -2,17 +2,13 @@
     "landmark":[
         {
             "name": "",
-            "geometory":{
-                "location":{
-                    "lat": "",
-                    "lng": ""
-                }
+            "location":{
+                "lat": "",
+                "lng": ""
             },
-            "plus_code" : {
-                "compound_code" : "",
-                "global_code" : ""
-             },
-             "say":""
+            "compound_code" : "",
+            "global_code" : "",
+            "say":""
         }
     ]
 }
