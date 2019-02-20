@@ -2,7 +2,7 @@
    "html_attributions" : [],
    "results" : [
       {
-         "formatted_address" : "294 Kiyomizu 1-chome, Higashiyama Ward, Kyoto, Kyoto Prefecture 605-0862, Japan",
+         "formatted_address" : "日本、〒605-0862 京都府京都市東山区清水１丁目２９４",
          "geometry" : {
             "location" : {
                "lat" : 34.9948561,
@@ -21,26 +21,26 @@
          },
          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
          "id" : "54f8e9cf7161034d25d1af68456c922c600409f8",
-         "name" : "Kiyomizu-dera",
+         "name" : "清水寺",
          "photos" : [
             {
                "height" : 1424,
                "html_attributions" : [
                   "\u003ca href=\"https://maps.google.com/maps/contrib/117852692456200297103/photos\"\u003eTzu-Ping Lin\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAAvboLxmPpZHaDjVVg9V_MsHyX58hSPIMd7VCHac5XlDWVpstoRVw-yeau6_jatOItqcs8ArPsbKXjSLmaTuQH93jMnGpW4CfkQeEQzqHzA3BrzJK2rSgJHdKMQipBbRhaEhBJORNBjHxwy_hhSd3NnENgGhQeLMcPBXL0C9mrTgY7dMccm70-yw",
+               "photo_reference" : "CmRaAAAAat6Thxaoyvi3d689XmoF2k7qNN8-AJYKlMu3C8sHIfbPucoJsp9PsY_q2ltz5FePYNtJbOYbpK_sxb3furi9WjYjFDb_tdVWLjbEwianzfzmnL-o5Xrak54aV8Hd-HNPEhD0N9OYHeg3snd8OV80mWFfGhQEShHOIdHpuQJnHPOmklM6O37duQ",
                "width" : 2144
             }
          ],
          "place_id" : "ChIJB_vchdMIAWARujTEUIZlr2I",
          "plus_code" : {
-            "compound_code" : "XQVP+W2 Kyoto, Kyoto Prefecture, Japan",
+            "compound_code" : "XQVP+W2 京都市, 日本、京都府",
             "global_code" : "8Q6QXQVP+W2"
          },
          "rating" : 4.4,
          "reference" : "ChIJB_vchdMIAWARujTEUIZlr2I",
          "types" : [ "place_of_worship", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 9999
+         "user_ratings_total" : 9996
       }
    ],
    "status" : "OK"

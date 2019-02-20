@@ -2,7 +2,7 @@
    "html_attributions" : [],
    "results" : [
       {
-         "formatted_address" : "Ukyō-ku, Kyoto, Kyoto Prefecture, Japan",
+         "formatted_address" : "日本、京都府京都市右京区",
          "geometry" : {
             "location" : {
                "lat" : 35.009449,
@@ -21,20 +21,20 @@
          },
          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
          "id" : "746aef937b6d6eb05c1c5129b54ae2ee90dd34ef",
-         "name" : "Arashiyama",
+         "name" : "嵐山",
          "photos" : [
             {
                "height" : 428,
                "html_attributions" : [
                   "\u003ca href=\"https://maps.google.com/maps/contrib/104229300187231591827/photos\"\u003eterasawa junpei\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAAvJ-V5XeJxSs0w_-o5DWlKiBbEePsaR-W6I6ptFXbE49oHs-X5vBYBgUM27PxYNwvAWVOMA2MkzW41OYbQEzUaTGCE7FIt70c6p5_AkuWg0R1XXRFTwRAzxkm7oc59X7wEhDayspxuVDKDjRsBnH7ygUhGhRAWs6Yff_hB_Xy9X5spVUA9laM8Q",
+               "photo_reference" : "CmRaAAAAZbpy17XCCHHdzVlYrrw-aZoSgJ-zPOSi0M6dohkeO_GcQyA-3Ck6GPfCKD6nGlptrGbr5hrIr2fxJjKuD0VH2zi78s7XDXm9AUDxuxAZyxp0EToVrCLzD77c0TdpN3POEhCAEmoc0YShgj-NPejRm6jIGhTbzkQqpZWUhpVhrL8l1kpUCq-Ujg",
                "width" : 640
             }
          ],
          "place_id" : "ChIJ49PvUVQHAWARTAF7WU_Wqqs",
          "plus_code" : {
-            "compound_code" : "2M58+QP Kyoto, 京都府 Japan",
+            "compound_code" : "2M58+QP 京都市, 日本、京都府",
             "global_code" : "8Q7Q2M58+QP"
          },
          "rating" : 4.4,

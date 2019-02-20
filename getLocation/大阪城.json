@@ -2,7 +2,7 @@
    "html_attributions" : [],
    "results" : [
       {
-         "formatted_address" : "1-1 Osakajo, Chuo Ward, Osaka, Osaka Prefecture 540-0002, Japan",
+         "formatted_address" : "日本、〒540-0002 大阪府大阪市中央区大阪城１−１",
          "geometry" : {
             "location" : {
                "lat" : 34.6873333,
@@ -21,7 +21,7 @@
          },
          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
          "id" : "6542e2915b31854a554b3a653f447e7928a0f319",
-         "name" : "Osaka Castle",
+         "name" : "大阪城",
          "opening_hours" : {
             "open_now" : true
          },
@@ -31,19 +31,19 @@
                "html_attributions" : [
                   "\u003ca href=\"https://maps.google.com/maps/contrib/101571971322080621787/photos\"\u003efai S\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAAbeKrxNB_NdGDwRtSGIVGE8XxdHBcdlwXDOlbVaCcIIqX_M8-ORCNCgK9M8huGydLZw-2aWM6G0RvpNugNMKT1Y8Cjc3FJZhB5-L0dxoXGv22Q9awucFPlocwrHfMdHVSEhAfw2aDOecNUFCtiG3FJXLvGhStQqD7wjbywS_zCD50SZ0pkmZrGg",
+               "photo_reference" : "CmRaAAAAvh4t5yryXlAwX8ByTcohkLQ9jVWDxV3n03A609b5lFRevxjiqmARvydIVpUCfwbn_0BQa1SUqOq3K0hHmFk0a1lRtDQFA8yoZ85OwclxL3sWOUq8R9cXbSbOM1C2jPDcEhCyLmM6Vnbs-p0gqw5XjUrFGhR87g7lV4BM2VH41uWRoy81FY9C8w",
                "width" : 4608
             }
          ],
          "place_id" : "ChIJ_TooXM3gAGARQR6hXH3QAQ8",
          "plus_code" : {
-            "compound_code" : "MGPG+W9 Osaka, 大阪府 Japan",
+            "compound_code" : "MGPG+W9 大阪市, 日本、大阪府",
             "global_code" : "8Q6QMGPG+W9"
          },
          "rating" : 4.3,
          "reference" : "ChIJ_TooXM3gAGARQR6hXH3QAQ8",
          "types" : [ "point_of_interest", "establishment" ],
-         "user_ratings_total" : 26913
+         "user_ratings_total" : 26926
       }
    ],
    "status" : "OK"

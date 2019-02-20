@@ -2,7 +2,7 @@
    "html_attributions" : [],
    "results" : [
       {
-         "formatted_address" : "11-６ Nanbasennichimae, Chuo Ward, Osaka, Osaka Prefecture 542-0075, Japan",
+         "formatted_address" : "日本、〒542-0075 大阪府大阪市中央区難波千日前１１−６",
          "geometry" : {
             "location" : {
                "lat" : 34.6649869,
@@ -21,27 +21,27 @@
          },
          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
          "id" : "a12810e05e4f27a3d565295302835272a69851e5",
-         "name" : "Namba Grand Kagetsu",
+         "name" : "よしもとNGK なんばグランド花月 劇場",
          "photos" : [
             {
                "height" : 3072,
                "html_attributions" : [
                   "\u003ca href=\"https://maps.google.com/maps/contrib/101385673994756615697/photos\"\u003eKeisuke I\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRZAAAAwVlbNartPMISyx1PF3dXR7CqNf8mQwhNJMiDUENEsfVceBMy1PEsLLoTaIMfR_I899vSHYNRnRnbhkvTZ8zJn-ZLkVwXUArC-OBS2XBcAHsT0zXk4zFAFjBN2p_vPNBDEhA5XV2_-OxJJAGg36AotBWJGhQJG_5dACadoAan8ULJZgSbuNGLSQ",
+               "photo_reference" : "CmRZAAAAMsb5f-kawB5CtMdz-EH148Lbp_Jm3xenoRU3XJd0-BbFXCdFKOsbkUSpDP5NwjwjEgcr-hy4cOZHFIktdwL4Z8SN0PwZ5hsBkAZ3tDlxazMA-h08fZboslpmQwIXmLZGEhA3OWjDn1hmsgGEN5IbJnbUGhTPngTl_wWoqoKwj2-ZJ3CEXnHIbw",
                "width" : 4608
             }
          ],
          "place_id" : "ChIJ5wIvqWvnAGAR5SLNzOrilQE",
          "plus_code" : {
-            "compound_code" : "MG73+XF Osaka, 大阪府 Japan",
+            "compound_code" : "MG73+XF 大阪市, 日本、大阪府",
             "global_code" : "8Q6QMG73+XF"
          },
          "price_level" : 2,
          "rating" : 4.2,
          "reference" : "ChIJ5wIvqWvnAGAR5SLNzOrilQE",
          "types" : [ "point_of_interest", "establishment" ],
-         "user_ratings_total" : 6371
+         "user_ratings_total" : 6372
       }
    ],
    "status" : "OK"

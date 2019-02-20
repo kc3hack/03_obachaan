@@ -2,7 +2,7 @@
    "html_attributions" : [],
    "results" : [
       {
-         "formatted_address" : "1 Chome-18-6 Ebisuhigashi, Naniwa Ward, Osaka, Osaka Prefecture 556-0002, Japan",
+         "formatted_address" : "日本、〒556-0002 大阪府大阪市浪速区恵美須東１丁目１８−６",
          "geometry" : {
             "location" : {
                "lat" : 34.6524992,
@@ -21,7 +21,7 @@
          },
          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
          "id" : "e9f94707f5f99aba5be3f52f72f1d4ac355297e0",
-         "name" : "Tsutenkaku",
+         "name" : "通天閣",
          "opening_hours" : {
             "open_now" : true
          },
@@ -31,19 +31,19 @@
                "html_attributions" : [
                   "\u003ca href=\"https://maps.google.com/maps/contrib/112813756416519586417/photos\"\u003eFernando Gonzalez Moll\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAAlEPouxPMDBeSDfoyPBspbxgM3-_RxOqZ76bBO5zLi1m7yQRE_9ls3MKNV7Bmijuvc6KAVI6MoU4IouVYT1J3mWAQUEfg3A8zcxaCnByrFb5i4msvLrYQJJaev26SoO7PEhD6zJzmVEobr2EqYrvv1exUGhQpsv_oYMVmfRWIhq1vh7yWszjOBA",
+               "photo_reference" : "CmRaAAAAw42AjUZGzzqw6D1wmfKEI7AfGCEkuyZcYQdp9EIAnaj1XZQy9Vua2Av0wlHddQV9CbaYCqc0D4rra6eHti0Csa3LkOOeJlBNvQpV3OwZXItMQr1BMXR9CrwlLHtYGkK_EhDG6aO7fw6Ocapy05FetzGvGhTfWHsU01ZgXC5GiiPimgWWZNQNog",
                "width" : 4006
             }
          ],
          "place_id" : "ChIJ_0Lgd2DnAGARV0X03lbPy-U",
          "plus_code" : {
-            "compound_code" : "MG24+XG Osaka, Osaka Prefecture, Japan",
+            "compound_code" : "MG24+XG 大阪市, 日本、大阪府",
             "global_code" : "8Q6QMG24+XG"
          },
          "rating" : 3.9,
          "reference" : "ChIJ_0Lgd2DnAGARV0X03lbPy-U",
          "types" : [ "premise", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 11384
+         "user_ratings_total" : 11378
       }
    ],
    "status" : "OK"

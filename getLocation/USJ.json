@@ -2,7 +2,7 @@
    "html_attributions" : [],
    "results" : [
       {
-         "formatted_address" : "2 Chome-1-33 Sakurajima, Konohana Ward, Osaka, Osaka Prefecture 554-0031, Japan",
+         "formatted_address" : "日本、〒554-0031 大阪府大阪市此花区桜島２丁目１−３３",
          "geometry" : {
             "location" : {
                "lat" : 34.665442,
@@ -21,20 +21,20 @@
          },
          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
          "id" : "32972c08ed8be5705163566ce04dbbb78dbfde40",
-         "name" : "Universal Studios Japan",
+         "name" : "ユニバーサル・スタジオ・ジャパン",
          "photos" : [
             {
                "height" : 1333,
                "html_attributions" : [
                   "\u003ca href=\"https://maps.google.com/maps/contrib/115096310724349473182/photos\"\u003eA Google User\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAATgZeHOVFFJcLX8pIxrt5jL2_aFdH9V-76PtKQ-1k89JM6XHSviyl7oEfvC06SyUviFGjOG9SR0_puiFcwMNSNIUnJyeRJ1QXN9wU87enSprXnvt1HTAKxMhzLAUknZn_EhDYHhK5RGa5osJIXZmW_oqYGhQsBJqoShhUoOpgZgdXZy67B1PmWw",
+               "photo_reference" : "CmRaAAAA6wbrPAp3GjDwhSvPS6Ysm6IeKr7S6PjQCLHtMpiqbMQrh2Nlq4W01Zgx5fWgmFwj2X7e9oPaMY7-RgG51SiRWmz9kihKhUH_mnK96etNPbbzVIDYeu1nmRu6NHeEDJ_cEhDvt-7wtEY043OvJrh5xN6pGhRe_VXCTk7p7siG3QxZIuWwSqKe4g",
                "width" : 2000
             }
          ],
          "place_id" : "ChIJXeLVg9DgAGARqlIyMCX-BTY",
          "plus_code" : {
-            "compound_code" : "MC8J+5W Osaka, Osaka Prefecture, Japan",
+            "compound_code" : "MC8J+5W 大阪市, 日本、大阪府",
             "global_code" : "8Q6QMC8J+5W"
          },
          "rating" : 4.5,
