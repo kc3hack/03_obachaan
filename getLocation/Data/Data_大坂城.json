@@ -1,1 +1,8 @@
-{"name": "大阪城", "lat": "34.6873333", "lng": "135.525955", "compound_code": "大阪府", "global_code": "8Q6QMGPG+W", "say": null}
+{
+    "name": "大阪城",
+    "lat": "34.6873333",
+    "lng": "135.525955",
+    "compound_code": "大阪府",
+    "global_code": "8Q6QMGPG+W",
+    "say": "この大坂城は3代目の大坂城なんやで"
+}
